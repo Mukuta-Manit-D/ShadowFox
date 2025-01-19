@@ -78,19 +78,19 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Mukuta-Manit-D/ShadowFox.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd boston-house-price-prediction
+cd Beginner_Level
 ```
 
 3. Run the Python script:
 
 ```bash
-python main.py
+Boston_price_prediction.ipynb
 ```
 
 4. View the model evaluation metrics and predictions.
