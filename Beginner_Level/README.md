@@ -103,4 +103,4 @@ python main.py
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
