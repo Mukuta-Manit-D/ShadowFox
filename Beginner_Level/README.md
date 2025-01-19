@@ -95,12 +95,6 @@ Boston_price_prediction.ipynb
 
 4. View the model evaluation metrics and predictions.
 
-## Files
-
-- `HousingData.csv`: Dataset file.
-- `main.py`: Main script for data preprocessing, model training, and evaluation.
-- `README.md`: Project documentation.
-
 ## License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
