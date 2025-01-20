@@ -28,3 +28,14 @@ The goal is to predict the selling price of used cars from the dataset based on 
    ```bash
    pip install -r requirements.txt
 
+3. Run the Python script:
+
+```bash
+Car_price_prediction.ipynb
+```
+
+4. View the model evaluation metrics and predictions.
+
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
