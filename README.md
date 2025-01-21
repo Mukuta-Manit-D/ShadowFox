@@ -1,6 +1,6 @@
 # AI/ML Developer Internship - ShadowFox
 
-This repository showcases the work done during my AI/ML internship at **ShadowFox**, where I contributed to machine learning projects involving **Boston House Price Prediction** and **Car Price Prediction**, both using **Linear Regression**.
+This repository showcases the work done during my AI/ML internship at **ShadowFox**, where I contributed to machine learning projects involving **Boston House Price Prediction** and **Car Price Prediction**, both using **Linear Regression** and **GPT-2 Text Generation** and **NLP Exploration**
 
 ## Projects
 
